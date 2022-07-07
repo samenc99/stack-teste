@@ -3,10 +3,3 @@ description: "Testando cria\xE7\xE3o stackfile"
 template: stack-teste/template-teste-1
 inputs:
   some_input: value
-plugins:
-- plugin: <stack-name>/<plugin-name>
-  inputs:
-    some_input: value
-    some_list:
-    - item1
-    - item2
