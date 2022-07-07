@@ -1,7 +1,7 @@
 type: app
 description: Default stackfile usecase description
 # template used to create the project
-template: stack-teste/<template-name>
+template: stack-teste/index.py
 inputs:
   some_input: value
 # list of plugins to be applied after project creation

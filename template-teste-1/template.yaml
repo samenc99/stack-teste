@@ -1,0 +1,9 @@
+name: template-teste-1
+description: Testando criação de template
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
