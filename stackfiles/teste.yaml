@@ -1,6 +1,6 @@
 type: app
 description: "Testando cria\xE7\xE3o stackfile"
-template: <stack-name>/<template-name>
+template: stack-teste/template-teste-1
 inputs:
   some_input: value
 plugins:
